@@ -4,4 +4,6 @@ body{
 
 h1{
   justify-content: center;
+  vertical-align: middle;
+  color: white;
 }
